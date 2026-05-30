@@ -2,14 +2,14 @@ export default function TeamPage() {
   const members = [
     {
       id: 1,
-      name: "John Doe",
-      email: "john@gmail.com",
-      role: "Frontend Developer",
+      name: "Payal Gulhane",
+      email: "gulhanep597@gmail.com",
+      role: "Full Stack developer",
     },
     {
       id: 2,
-      name: "Jane Smith",
-      email: "jane@gmail.com",
+      name: "Mansi Nipunge",
+      email: "mansin@gmail.com",
       role: "UI Designer",
     },
   ];
